@@ -1,2 +1,2 @@
 # Tetris game
-- https://youthdraemer.github.io/webgame/
+- https://youthdreamer.github.io/webgame/
